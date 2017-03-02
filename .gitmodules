@@ -1,0 +1,3 @@
+[submodule "Karabiner"]
+	path = Karabiner
+	url = git@github.com:tekezo/Karabiner.git
