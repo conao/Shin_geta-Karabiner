@@ -1,3 +1,27 @@
 <?xml version="1.0"?>
 <root>
+  <item>
+    <name>新下駄配列 for US layout</name>
+    <identifier>conao.remap.shingeta.us</identifier>
+    <block>
+      <inputsource_only>JAPANESE</inputsource_only>
+      <include path="conao_shingeta_base_for_us.xml" />
+      <include path="conao_shingeta_atok.xml" />
+    </block>
+  </item>
+  <item>
+    <name>新下駄配列 for JIS layout</name>
+    <identifier>conao.remap.shingeta.jis</identifier>
+    <block>
+      <inputsource_only>JAPANESE</inputsource_only>
+      <include path="conao_shingeta_base.xml" />
+      <include path="conao_shingeta_atok.xml" />
+    </block>
+    <block>
+      <inputsource_not>JAPANESE</inputsource_not>
+      <autogen>__SetKeyboardType__ KeyboardType::MACBOOK</autogen>
+      <autogen>__KeyToKey__ KeyCode::JIS_YEN, KeyCode::BACKQUOTE</autogen>
+      <autogen>__KeyToKey__ KeyCode::JIS_UNDERSCORE, KeyCode::BACKQUOTE</autogen>
+    </block>
+  </item>
 </root>
