@@ -23,6 +23,8 @@
       <autogen>__KeyToKey__ KeyCode::JIS_YEN, KeyCode::BACKQUOTE</autogen>
       <autogen>__KeyToKey__ KeyCode::JIS_UNDERSCORE, KeyCode::BACKQUOTE</autogen>
     </block>
+  </item>
+  <item>
     <name>新下駄配列 for US layout anywhare</name>
     <identifier>conao.remap.shingeta.us.any</identifier>
     <include path="conao_shingeta_base_for_us.xml" />
