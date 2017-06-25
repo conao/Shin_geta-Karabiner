@@ -6,7 +6,6 @@
     <block>
       <inputsource_only>JAPANESE</inputsource_only>
       <include path="coshigeta_base_for_us.xml" />
-      <include path="conao_shingeta_atok.xml" />
     </block>
   </item>
   <item>
@@ -18,7 +17,6 @@
       <autogen>__KeyToKey__ KeyCode::JIS_YEN, KeyCode::BACKQUOTE</autogen>
       <autogen>__KeyToKey__ KeyCode::JIS_UNDERSCORE, KeyCode::BACKQUOTE</autogen>
       <include path="coshigeta_base_for_us.xml" />
-      <include path="conao_shingeta_atok.xml" />
     </block>
     <block>
       <inputsource_not>JAPANESE</inputsource_not>
@@ -33,7 +31,6 @@
     <block>
       <inputsource_only>JAPANESE</inputsource_only>
       <include path="conao_shingeta_base_for_us.xml" />
-      <include path="conao_shingeta_atok.xml" />
     </block>
   </item>
   <item>
@@ -45,7 +42,6 @@
       <autogen>__KeyToKey__ KeyCode::JIS_YEN, KeyCode::BACKQUOTE</autogen>
       <autogen>__KeyToKey__ KeyCode::JIS_UNDERSCORE, KeyCode::BACKQUOTE</autogen>
       <include path="conao_shingeta_base_for_us.xml" />
-      <include path="conao_shingeta_atok.xml" />
     </block>
     <block>
       <inputsource_not>JAPANESE</inputsource_not>
@@ -58,7 +54,6 @@
     <name>腰下駄配列 for US layout anywhare</name>
     <identifier>conao.remap.coshigeta.us.any</identifier>
     <include path="coshigeta_base_for_us.xml" />
-    <include path="conao_shingeta_atok.xml" />
   </item>
   <item>
     <name>新下駄配列 for JIS layout anywhare</name>
@@ -67,13 +62,11 @@
     <autogen>__KeyToKey__ KeyCode::JIS_YEN, KeyCode::BACKQUOTE</autogen>
     <autogen>__KeyToKey__ KeyCode::JIS_UNDERSCORE, KeyCode::BACKQUOTE</autogen>
     <include path="coshigeta_base_for_us.xml" />
-    <include path="conao_shingeta_atok.xml" />
   </item>
   <item>
     <name>新下駄配列 for US layout anywhare</name>
     <identifier>conao.remap.shingeta.us.any</identifier>
     <include path="conao_shingeta_base_for_us.xml" />
-    <include path="conao_shingeta_atok.xml" />
   </item>
   <item>
     <name>新下駄配列 for JIS layout anywhare</name>
@@ -82,6 +75,5 @@
     <autogen>__KeyToKey__ KeyCode::JIS_YEN, KeyCode::BACKQUOTE</autogen>
     <autogen>__KeyToKey__ KeyCode::JIS_UNDERSCORE, KeyCode::BACKQUOTE</autogen>
     <include path="conao_shingeta_base_for_us.xml" />
-    <include path="conao_shingeta_atok.xml" />
   </item>
 </root>
