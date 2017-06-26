@@ -142,26 +142,26 @@
   <autogen>__SimultaneousKeyPresses__ KeyCode::S, KeyCode::SLASH,                                     KeyCode::VK_NONE</autogen>
 
   <!-- 拗音 -->
-  <!-- 2段目(J) - ひゅりゅりょみゅゅ -->
+  <!-- 2段目(J) - ひゅりゅりょみゅにゅ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::Q, KeyCode::H, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::W, KeyCode::R, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::E, KeyCode::R, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::R, KeyCode::M, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::T, KeyCode::L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::T, KeyCode::N, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
 
-  <!-- 3段目(J) - ひょ[][]みょょ -->
+  <!-- 3段目(J) - ひょ[][]みょにょ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::A, KeyCode::H, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
   <!-- [] -->
   <!-- [] -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::F, KeyCode::M, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::G, KeyCode::L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::G, KeyCode::N, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
 
-  <!-- 4段目(J) - ひゃ[]りゃみゃゃ -->
+  <!-- 4段目(J) - ひゃ[]りゃみゃにゃ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::Z, KeyCode::H, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
   <!-- [] -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::C, KeyCode::R, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::V, KeyCode::M, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::B, KeyCode::L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::B, KeyCode::N, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
 
   <!-- 拗音 -->
   <!-- 2段目(I) - びゅしゅしょきゅちゅ -->
@@ -186,26 +186,26 @@
   <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::B, KeyCode::T, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
 
   <!-- 拗音 -->
-  <!-- 2段目(O) - ぴゅじゅじょぎゅにゅ -->
+  <!-- 2段目(O) - ぴゅじゅじょぎゅゅ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::Q, KeyCode::P, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::W, KeyCode::J, KeyCode::U,             KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::E, KeyCode::J, KeyCode::O,             KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::R, KeyCode::G, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::T, KeyCode::N, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::T, KeyCode::L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE</autogen>
 
-  <!-- 3段目(O) - ぴょ[][]ぎょにょ -->
+  <!-- 3段目(O) - ぴょ[][]ぎょょ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::A, KeyCode::P, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
   <!-- [] -->
   <!-- [] -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::F, KeyCode::G, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::G, KeyCode::N, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::G, KeyCode::L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
 
-  <!-- 4段目(O) - ぴゃ[]じゃぎゃにゃ -->
+  <!-- 4段目(O) - ぴゃ[]じゃぎゃゃ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::Z, KeyCode::P, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
   <!-- [] -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::C, KeyCode::J, KeyCode::A,             KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::V, KeyCode::G, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::B, KeyCode::N, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::B, KeyCode::L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
 
   <!-- 同手同時押し -->
   <!-- RF/RG -> ・ -->
@@ -251,22 +251,22 @@
   <autogen>__SimultaneousKeyPresses__ KeyCode::S, KeyCode::KEY_0,                         KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::S, KeyCode::MINUS,                         KeyCode::VK_NONE</autogen>
 
-  <!-- J:[][][][]ゎ -->
+  <!-- J:[][]うぃてぃでぃ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::KEY_1,                                     KeyCode::VK_NONE</autogen>
   <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::KEY_2,                                     KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::KEY_3,                                     KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::KEY_4,                                     KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::KEY_5, KeyCode::L, KeyCode::W, KeyCode::A, KeyCode::VK_NONE</autogen>
-  <!-- I:[]てぃでぃうぃ[] -->
+  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::KEY_3, KeyCode::W, KeyCode::I,             KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::KEY_4, KeyCode::T, KeyCode::H, KeyCode::I, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::J, KeyCode::KEY_5, KeyCode::D, KeyCode::H, KeyCode::I, KeyCode::VK_NONE</autogen>
+  <!-- I:[][]うぇしぇじぇ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_1,                                     KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_2, KeyCode::T, KeyCode::H, KeyCode::I, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_3, KeyCode::D, KeyCode::H, KeyCode::I, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_4, KeyCode::W, KeyCode::I,             KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_5,                                     KeyCode::VK_NONE</autogen>
-  <!-- O:[]しぇじぇうぇ[] -->
+  <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_2,                                     KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_3, KeyCode::W, KeyCode::E,             KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_4, KeyCode::S, KeyCode::H, KeyCode::E, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::I, KeyCode::KEY_5, KeyCode::J, KeyCode::E,             KeyCode::VK_NONE</autogen>
+  <!-- O:[][]うぉ[]ゎ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_1,                                     KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_2, KeyCode::S, KeyCode::H, KeyCode::E, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_3, KeyCode::J, KeyCode::E,             KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_4, KeyCode::W, KeyCode::E,             KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_5,                                     KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_2,                                     KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_3, KeyCode::W, KeyCode::H, KeyCode::O, KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_4,                                     KeyCode::VK_NONE</autogen>
+  <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::KEY_5, KeyCode::L, KeyCode::W, KeyCode::A, KeyCode::VK_NONE</autogen>
 </root>
