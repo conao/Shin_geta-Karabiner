@@ -1,5 +1,5 @@
 * 腰下駄配列
-[[./image/coshigeta-layout.png]]
+[[./image/keyboard-layout.png]]
 腰下駄配列は[[http://kouy.exblog.jp/13627994/][新下駄配列]]のマイナーチェンジ版です。
 拗音の規則性が増すように配列し直しました。
 
@@ -8,6 +8,12 @@ Mac専用ソフト[[https://pqrs.org/osx/karabiner/index.html.ja][Karabiner]]用
 
 またJIS配列の場合、自動的にUS配列になります。
 この点については修正する予定です。
+* インストール
+=[user]/Library/Application Support/Karabiner=
+がKarabinerのユーザー設定用フォルダになります。
+
+このフォルダを削除してKarabinerというフォルダでCloneするか、
+適当なところにCloneしてファイルをコピーすればインストール完了です。
 * 変更点
 ** 単打
 変更点はありません
