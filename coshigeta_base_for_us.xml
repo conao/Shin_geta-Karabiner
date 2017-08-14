@@ -208,17 +208,16 @@
   <autogen>__SimultaneousKeyPresses__ KeyCode::O, KeyCode::B, KeyCode::L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE</autogen>
 
   <!-- 同手同時押し -->
-  <!-- RF/RG -> ・ -->
-  <!-- IM によって動作が異なる -->
-  <!-- HU -> ／ -->
-  <!-- IM によって動作が異なる -->
+  <!-- RF -> ・ --> <!-- IM によって動作が異なる -->
+  <autogen>__SimultaneousKeyPresses__ KeyCode::R, KeyCode::F, KeyCode::SLASH, KeyCode::VK_NONE</autogen>
+  <!-- HU -> ／ --> <!-- IM によって動作が異なる -->
+  <autogen>__SimultaneousKeyPresses__ KeyCode::H, KeyCode::U, KeyCode::SLASH, ModifierFlag::OPTION_L, KeyCode::VK_NONE</autogen>
   <!-- FG -> 「」 & ENTER & 左移動 -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::F, KeyCode::G, KeyCode::BRACKET_LEFT, KeyCode::BRACKET_RIGHT, KeyCode::RETURN, KeyCode::CURSOR_LEFT,                                KeyCode::VK_NONE</autogen>
   <!-- HJ -> （） & ENTER & 左移動 -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::H, KeyCode::J, KeyCode::KEY_9, ModifierFlag::SHIFT_L, KeyCode::KEY_0, ModifierFlag::SHIFT_L, KeyCode::RETURN, KeyCode::CURSOR_LEFT, KeyCode::VK_NONE</autogen>
-  <!-- FV/FB -> ！ -->
+  <!-- FV -> ！ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::F, KeyCode::V, KeyCode::KEY_1, ModifierFlag::SHIFT_L, KeyCode::VK_NONE</autogen>
-  <autogen>__SimultaneousKeyPresses__ KeyCode::F, KeyCode::B, KeyCode::KEY_1, ModifierFlag::SHIFT_L, KeyCode::VK_NONE</autogen>
   <!-- NJ -> ？ -->
   <autogen>__SimultaneousKeyPresses__ KeyCode::N, KeyCode::J, KeyCode::SLASH, ModifierFlag::SHIFT_L, KeyCode::VK_NONE</autogen>
 
